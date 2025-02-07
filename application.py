@@ -36,7 +36,7 @@ st.markdown("---")
 
 
 # Chargement des données
-df = "ds_salaries.csv"
+df = st.file_uploader("ds_salaries.csv")
 
 # Création de la barre de navigation
 pages = {
