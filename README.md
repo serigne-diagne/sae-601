@@ -37,8 +37,9 @@ pip install -r requirements.txt
 ## Utilisation
 1. Lancer l'application :
 ```bash
-streamlit run app.py
+streamlit run application.py
 ```
+Sachant que l'application a été déployée, vous pouvez y accéder directement au lien mis plus haut.
 2. Naviguer via le menu latéral
 3. Sélectionner les visualisations et appliquer les filtres souhaités
 
@@ -49,5 +50,4 @@ L'analyse utilise le fichier `ds_salaries.csv` contenant les données salariales
 - BIKOUTA NSINDA Auxane
 - DIAGNE Pape Serigne
 
-## Licence
-Licence MIT
+
