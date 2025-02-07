@@ -36,7 +36,7 @@ st.markdown("---")
 
 
 # Chargement des données
-df = pd.read_csv("ds_salaries.csv")
+df = "ds_salaries.csv"
 
 # Création de la barre de navigation
 pages = {
